@@ -1,0 +1,22 @@
+1 Arrive to gym
+ 1.1 Get weights and barbell set up
+    1.1.1 Put barbell on the floor
+      1.1.1.1 Walk over to barbell
+      1.1.1.2 Grab the barbell
+      1.1.1.3 Lift the barbell
+      1.1.1.4 Lower the barbell down onto the floor
+    1.1.2 Put weights on the bar
+      1.1.2.1 Walk over to weights
+      1.1.2.2 Grab the weights
+      1.1.2.3 Lift the weights
+      1.1.2.4 Place the weight on the left side of the barbell
+      1.1.2.4 Place the weight on the right side of the barbell
+    1.1.3 Do the lift
+      1.1.3.1 Walk around to the barbell
+      1.1.3.2 Place shins on the bar
+      1.1.3.3 Bend over
+      1.1.3.4 Grab the bar
+      1.1.3.5 Inhale & eyes forward
+      1.1.3.6 Extend legs while keeping back straight
+      1.1.3.7 Stand up straight
+      1.1.3.8 Exhale
