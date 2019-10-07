@@ -24,3 +24,4 @@
       1.1.4.1 Bend knees again while keeping back straight
       1.1.4.2 Place weights and bar on the ground
       1.1.4.3 Release bar
+      1.1.4.3 Stand up
